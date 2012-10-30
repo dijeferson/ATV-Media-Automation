@@ -1,5 +1,9 @@
 #!/bin/bash 
 
+# ATV Automation
+# By Jeferson Santos
+# @dijeferson / dijeferson@gmail.com
+
 # Inicio das variaveis
 movie=$1
 echo $movie
